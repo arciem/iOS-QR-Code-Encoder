@@ -21,7 +21,7 @@
 // DEALINGS IN THE SOFTWARE.
 //
 
-#import <Foundation/Foundation.h>
+@import Foundation;
 
 @interface QRCodeGenerator : NSObject
 
